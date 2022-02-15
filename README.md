@@ -6,10 +6,10 @@ Add site responsive screenshot here
 
 Link to deployed site to go here
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AwsSG/empowered?color=red)
-![GitHub contributors](https://img.shields.io/github/contributors/AwsSG/empowered?color=orange)
-![GitHub language count](https://img.shields.io/github/languages/count/AwsSG/empowered?color=yellow)
-![GitHub top language](https://img.shields.io/github/languages/top/AwsSG/empowered?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-maths?color=red)
+![GitHub contributors](https://img.shields.io/github/contributors/Kera-cudmore/love-maths?color=orange)
+![GitHub language count](https://img.shields.io/github/languages/count/Kera-cudmore/love-maths?color=yellow)
+![GitHub top language](https://img.shields.io/github/languages/top/Kera-cudmore/love-maths?color=green)
 
 Add the w3c validator shields badge here
 
@@ -128,11 +128,13 @@ Git - For version control.
 
 Github - To save and store the files for the website.
 
+GitPod - IDE
+
 Google Fonts - To import the fonts used on the website.
 
 Font Awesome - For the iconography on the website.
 
-Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+Google Developer Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 [Tiny PNG](https://tinypng.com/) To compress images.
 
