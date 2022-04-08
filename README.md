@@ -1,21 +1,20 @@
 # Love Maths
 
-The love maths site was created as part of a walk through for the Code Institutes Diploma in Full Stack Web Development. 
+The love maths site was created as part of a walk through for the JavaScript module in the Code Institutes Diploma in Full Stack Web Development. 
 
 Add site responsive screenshot here
 
-Link to deployed site to go here
+[Visit the deployed site](https://kera-cudmore.github.io/love-maths/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-maths?color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kera-cudmore/love-maths?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kera-cudmore/love-maths?color=yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/Kera-cudmore/love-maths?color=green)
-
-Add the w3c validator shields badge here
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Flove-maths%2F)
 
 ## CONTENTS
 
-* [User Experience (UX)](#User-Experience-(UX))
+* [User Experience (UX)](#User-Experience)
   * [Initial Discussion](#Initial-Discussion)
   * [User Stories](#User-Stories)
 
@@ -47,9 +46,7 @@ Add the w3c validator shields badge here
   
 * [Credits](#Credits)
   * [Code Used](#Code-Used)
-  * [Content](#Content)
   * [Media](#Media)
-  * [Acknowledgments](#Acknowledgments)
 
 - - -
 
@@ -83,33 +80,30 @@ Image of colour scheme to go here (use coolors?)
 
 ### Typography
 
-what font
+
 
 ### Imagery
 
 
 ### Wireframes
 
-Wireframes were created for mobile, tablet and desktop.
+Wireframes were created for mobile, tablet and desktop using basalmiq.
 
 ![Love Maths Wireframes](documentation/lovemathswireframe.png)
 
 ### Features
 
-The website is comprised of …
-
-* All Pages on the website have:
+Love maths is comprised of one page which holds the game container. 
 
 * Future Implementations.
 
+In a future implementation I would like to add some instructions on how to play the game, possibly via a modal. I would also like to look into adding a countdown timer to add an extra element of difficulty to the game.
 
 ### Accessibility
 
-We have been mindful during coding to ensure that the website is as accessible friendly as possible. This has been have achieved by:
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. This has been have achieved by:
 
 * Using semantic HTML.
-* Using descriptive alt attributes on images on the site.
-?* Providing information for screen readers where there are icons used and no text.
 * Ensuring that there is a sufficient colour contrast throughout the site.
 
 - - -
@@ -135,8 +129,6 @@ Google Fonts - To import the fonts used on the website.
 Font Awesome - For the iconography on the website.
 
 Google Developer Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
-
-[Tiny PNG](https://tinypng.com/) To compress images.
 
 [Favicon.io](https://favicon.io/) To create favicon.
 
@@ -176,11 +168,11 @@ To clone the empowered repository:
 
 ## Testing
 
-Testing was ongoing throughout the entire build. We utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as we went along.
+Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 
 ### W3C Validator
 
-The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+The W3C validator was used to validate the HTML. It was also used to validate CSS in the style.css file.
 
 W3C validator images or links to go here
 
@@ -200,7 +192,7 @@ W3C validator images or links to go here
 
 ### Lighthouse
 
-We used Lighthouse within the Chrome Developer Tools to allow us to test the performance, accessibility, best practices and SEO of the website.
+I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
 
 ### Full Testing
 
@@ -210,13 +202,12 @@ We used Lighthouse within the Chrome Developer Tools to allow us to test the per
 
 ### Code Used
 
-### Content
-
+This project was created as part of a walkthrough project on the Code Institutes Full Stack Diploma JavaScript modules.
 
 ### Media
 
+The Love Maths logo image was supplied by the Code Institute.
 
-### Acknowledgments
 
 
 
