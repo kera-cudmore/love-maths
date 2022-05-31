@@ -75,12 +75,14 @@ Add site responsive screenshot here
 
 ### Colour Scheme
 
-Image of colour scheme to go here (use coolors?)
+The colour scheme for the site was kept very simple, using four colours for the buttons and a grey background for the games container.
+
+![Love Maths Colour Palette](documentation/lovemaths-colour.png)
 
 
 ### Typography
 
-
+The raleway font has been used for the site, with a back-up of sans-serif.
 
 ### Imagery
 
