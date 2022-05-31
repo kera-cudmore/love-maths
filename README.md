@@ -21,7 +21,6 @@ Add site responsive screenshot here
 * [Design](#Design)
   * [Colour Scheme](#Colour-Scheme)
   * [Typography](#Typography)
-  * [Imagery](#Imagery)
   * [Wireframes](#Wireframes)
   * [Features](#Features)
   * [Accessibility](#Accessibility)
@@ -83,9 +82,6 @@ The colour scheme for the site was kept very simple, using four colours for the 
 ### Typography
 
 The raleway font has been used for the site, with a back-up of sans-serif.
-
-### Imagery
-
 
 ### Wireframes
 
@@ -153,7 +149,7 @@ The site is deployed using GitHub Pages.
 To fork the love-maths repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, kera-cudmore/love-maths.
+2. Go to the repository for this project, [kera-cudmore/love-maths](https://github.com/kera-cudmore/love-maths)
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -161,7 +157,7 @@ To fork the love-maths repository:
 To clone the empowered repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, kera-cudmore/love-maths .
+2. Go to the repository for this project, [kera-cudmore/love-maths](https://github.com/kera-cudmore/love-maths)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
