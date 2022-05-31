@@ -18,10 +18,10 @@ document.getElementById("answer-box").addEventListener("keydown", function(event
     if (event.key === "Enter") {
         checkAnswer();
     }
-})
+});
 
     runGame("addition");
-})
+});
 
 
 /**
@@ -64,7 +64,7 @@ function checkAnswer() {
 
     if (isCorrect) {
         alert("Hey! You got it right! :D");
-        incrementScore()
+        incrementScore();
     } else {
         alert(`Awww... you answered ${userAnswer}. The correct answer was ${calculatedAnswer[0]}!`);
         incrementWrongAnswer();
