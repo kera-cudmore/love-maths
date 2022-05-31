@@ -52,7 +52,9 @@ Add site responsive screenshot here
 
 ### User Stories
 
-
+* As a user, I want to be able to understand how to use the site without having to read instructions.
+* As a user, I want to be able to switch the type of questions I answer.
+* As a user, I want to be able to keep track of my score.
 
 - - -
 
@@ -185,7 +187,3 @@ This project was created as part of a walkthrough project on the Code Institutes
 ### Media
 
 The Love Maths logo image was supplied by the Code Institute.
-
-
-
-
