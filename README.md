@@ -79,7 +79,7 @@ Wireframes were created for mobile, tablet and desktop using basalmiq.
 
 ### Features
 
-Love maths is comprised of one page which holds the game container. 
+Love maths is comprised of one page which holds the game container.
 
 * Future Implementations.
 
@@ -128,7 +128,14 @@ Google Developer Tools - To troubleshoot and test features, solve issues with re
 
 ### Deployment
 
-The site is deployed using GitHub Pages.
+The site is deployed using GitHub Pages. To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [kera-cudmore/love-maths](https://github.com/kera-cudmore/love-maths)
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ### Local Development
 
