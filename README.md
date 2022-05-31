@@ -15,7 +15,6 @@ Add site responsive screenshot here
 ## CONTENTS
 
 * [User Experience (UX)](#User-Experience)
-  * [Initial Discussion](#Initial-Discussion)
   * [User Stories](#User-Stories)
 
 * [Design](#Design)
@@ -51,21 +50,8 @@ Add site responsive screenshot here
 
 ## User Experience (UX)
 
-### Initial Discussion
-
-
-#### Key information for the site
-
-
 ### User Stories
 
-#### First Time Visitor Goals
-
-
-#### Returning Visitor Goals
-
-
-#### Frequent Visitor Goals
 
 
 - - -
@@ -181,12 +167,6 @@ W3C validator images or links to go here
 
 
 ### Testing User Stories
-
-* First Time Visitors
-
-* Returning Visitors
-
-* Frequent Visitors
 
 ### Lighthouse
 
