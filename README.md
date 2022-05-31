@@ -165,9 +165,14 @@ Testing was ongoing throughout the entire build. I utilised Chrome developer too
 
 ### W3C Validator
 
-The W3C validator was used to validate the HTML. It was also used to validate CSS in the style.css file.
+The W3C validator was used to validate the HTML. It was also used to validate CSS in the style.css file. Both files passed validation with no errors.
 
-W3C validator images or links to go here
+* [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkera-cudmore.github.io%2Flove-maths%2F)
+* [style.css](documentation/love-maths-css.png)
+
+### Jshint JavaScript Validator
+
+JShint was used to validate the JavaScript.
 
 ### Solved Bugs
 
