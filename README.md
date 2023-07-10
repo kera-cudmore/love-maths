@@ -1,10 +1,12 @@
 # Love Maths
 
-The love maths site was created as part of a walk through for the JavaScript module in the Code Institutes Diploma in Full Stack Web Development. 
+![Love Maths Banner](documentation/love-maths-banner.png)
 
-Add site responsive screenshot here
+The love maths site was created as part of a walkthrough series of lessons for the JavaScript module in the Code Institutes Diploma in Full Stack Web Development.
 
-[Visit the deployed site](https://kera-cudmore.github.io/love-maths/)
+It is a maths game that allows users to practice their core mathematics skills in addition, subtraction, division and multiplication.
+
+Visit the deployed site: [Love Maths](https://kera-cudmore.github.io/love-maths/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-maths?color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kera-cudmore/love-maths?color=orange)
@@ -12,39 +14,38 @@ Add site responsive screenshot here
 ![GitHub top language](https://img.shields.io/github/languages/top/Kera-cudmore/love-maths?color=green)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Flove-maths%2F)
 
+- - -
+
 ## CONTENTS
 
-* [User Experience (UX)](#User-Experience)
-  * [User Stories](#User-Stories)
-
-* [Design](#Design)
-  * [Colour Scheme](#Colour-Scheme)
-  * [Typography](#Typography)
-  * [Wireframes](#Wireframes)
-  * [Features](#Features)
-  * [Accessibility](#Accessibility)
-
-* [Technologies Used](#Technologies-Used)
-  * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
-
-* [Deployment & Local Development](#Deployment-&-Local-Development)
-  * [Deployment](#Deployment)
-  * [Local Development](#Local-Development)
-    * [How to Fork](#How-to-Fork)
-    * [How to Clone](#How-to-Clone)
-
-* [Testing](#Testing)
-  * [W3C Validator](#W3C-Validator)
-  * [Solved Bugs](#Solved-Bugs)
-  * [Known Bugs](#Known-Bugs)
-  * [Testing User Stories](#Testing-User-Stories)
-  * [Lighthouse](#Lighthouse)
-  * [Full Testing](#Full-Testing)
+* [User Experience (UX)](#user-experience-ux)
+  * [User Stories](#user-stories)
+* [Design](#design)
+  * [Colour Scheme](#colour-scheme)
+  * [Typography](#typography)
+  * [Wireframes](#wireframes)
+* [Features](#features)
+  * [Accessibility](#accessibility)
+  * [Future Implementations](#future-implementations)
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+* [Deployment & Local Development](#deployment--local-development)
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
+* [Testing](#testing)
+  * [W3C Validator](#w3c-validator)
+  * [Solved Bugs](#solved-bugs)
+  * [Known Bugs](#known-bugs)
+  * [Testing User Stories](#testing-user-stories)
+  * [Lighthouse](#lighthouse)
+  * [Full Testing](#full-testing)
   
-* [Credits](#Credits)
-  * [Code Used](#Code-Used)
-  * [Media](#Media)
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Media](#media)
 
 - - -
 
@@ -66,10 +67,9 @@ The colour scheme for the site was kept very simple, using four colours for the 
 
 ![Love Maths Colour Palette](documentation/lovemaths-colour.png)
 
-
 ### Typography
 
-The raleway font has been used for the site, with a back-up of sans-serif.
+The Raleway font has been used for the site, with a back-up of sans-serif.
 
 ### Wireframes
 
@@ -81,16 +81,19 @@ Wireframes were created for mobile, tablet and desktop using basalmiq.
 
 Love maths is comprised of one page which holds the game container.
 
-* Future Implementations.
-
-In a future implementation I would like to add some instructions on how to play the game, possibly via a modal. I would also like to look into adding a countdown timer to add an extra element of difficulty to the game.
-
 ### Accessibility
 
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. This has been have achieved by:
 
 * Using semantic HTML.
 * Ensuring that there is a sufficient colour contrast throughout the site.
+
+### Future Implementations
+
+* Improve the responsiveness of the site.
+* Add a countdown timer to add an extra element of difficulty to the game.
+* Add difficulty levels to the game, which would encourage players to progress to the next level while practicing their skills.
+* Add instructions on how to play the game (possibly via a modal).
 
 - - -
 
@@ -102,19 +105,19 @@ HTML, CSS, JavaScript
 
 ### Frameworks, Libraries & Programs Used
 
-Balsamiq - Used to create wireframes.
+[Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
-Git - For version control.
+[Git](https://git-scm.com/) - For version control.
 
-Github - To save and store the files for the website.
+[Github](https://github.com/) - To save and store the files for the website.
 
-GitPod - IDE
+[GitPod](https://www.gitpod.io/) - IDE
 
-Google Fonts - To import the fonts used on the website.
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
 
-Font Awesome - For the iconography on the website.
+[Font Awesome](https://fontawesome.com/) - Version 5.7.2 - For the iconography on the website.
 
-Google Developer Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+[Google Developer Tools](https://developer.chrome.com/docs/devtools/) - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 [Favicon.io](https://favicon.io/) To create favicon.
 
@@ -176,11 +179,15 @@ JShint was used to validate the JavaScript.
 
 ### Solved Bugs
 
-
 ### Known Bugs
 
-
 ### Testing User Stories
+
+| User Story | How Achieved? | Evidence |
+| :--- | :--- | :--- |
+| I want to be able to understand how to use the site without having to read instructions. | | |
+| I want to be able to switch the type of questions I answer. | | |
+| I want to be able to keep track of my score. | | |
 
 ### Lighthouse
 

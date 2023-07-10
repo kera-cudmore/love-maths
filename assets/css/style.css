@@ -1,9 +1,27 @@
 /* --------- Global style */
 
+:root {
+    /* Colours */
+    --white: #FFF;
+    --black: #000;
+    --darkgray: #0d1013;
+    --game-area: #E6ECF0;
+    --text: #445361;
+    --green: #008000;
+    --darkgreen: #006400;
+    --red: #ff0000;
+    --darkred: #8b0000;
+    --blue: #0000ff;
+    --darkblue: #00008b;
+    --orange: #ffa500;
+    --darkoranage: #ff8c00;
+
+}
+
 body {
-    background-color: white;
+    background-color: var(--white);
     font-family: "Raleway", sans-serif;
-    color: #445361;
+    color: var(--text);
     text-align: center;
 }
 
@@ -22,7 +40,7 @@ body {
 /* --------- Game layout */
 
 .game-area {
-    background-color: #E6ECF0;
+    background-color: var(--game-area);
     box-sizing: border-box;
     width: 85%;
     height: 65vh;
@@ -56,12 +74,12 @@ body {
 }
 
 #score {
-    color: green;
+    color: var(--green);
     font-weight: bold;
 }
 
 #incorrect {
-    color: red;
+    color: var(--red);
     font-weight: bold;
 }
 
@@ -72,7 +90,7 @@ body {
 
 #answer-box {
     border: none;
-    color: #445361;
+    color: var(--text);
     display: inline-block;
     height: 40px;
     width: 80px;
@@ -92,7 +110,7 @@ body {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: white;
+    color: var(--white);
 }
 
 .btn:focus {
@@ -102,7 +120,7 @@ body {
 .btn--big {
     padding-top: 10px;
     border-radius: 50%;
-    background-color: white;
+    background-color: var(--white);
     border: 10px solid;
     width: 100px;
     height: 100px;
@@ -114,65 +132,65 @@ body {
 .btn--big::after {
     content: attr(data-type);
     font-size: 1rem;
-    color: #445361;
+    color: var(--text);
     position: relative;
     left: -0.5em;
 }
 
 .btn--blue {
-    border-color: blue;
-    color: blue;
+    border-color: var(--blue);
+    color: var(--blue);
 }
 
 .btn--blue:active,
 .btn--blue:hover {
-    background-color: darkblue;
-    color: white;
+    background-color: var(--darkblue);
+    color: var(--white);
 }
 
 .btn--orange {
-    border-color: orange;
-    color: orange;
+    border-color: var(--orange);
+    color: var(--orange);
 }
 
 .btn--orange:active,
 .btn--orange:hover {
-    background-color: darkorange;
-    color: white;
+    background-color: var(--darkoranage);
+    color: var(--white);
 }
 
 .btn--red {
-    border-color: red;
-    color: red;
+    border-color: var(--red);
+    color: var(--red);
 }
 
 .btn--red:active,
 .btn--red:hover {
-    background-color: darkred;
-    color: white;
+    background-color: var(--darkred);
+    color: var(--white);
 }
 
 .btn--green {
-    border-color: green;
-    color: green;
+    border-color: var(--green);
+    color: var(--green);
 }
 
 .btn--green:active,
 .btn--green:hover {
-    background-color: darkgreen;
-    color: white;
+    background-color: var(--darkgreen);
+    color: var(--white);
 }
 
 .btn--gray {
     margin-top: 25px;
-    background-color: #445361;
+    background-color: var(--text);
     border: 1px transparent;
     border-radius: 20px;
 }
 
 .btn--gray:active,
 .btn--gray:hover {
-    background-color: #0d1013;
+    background-color: var(--darkgray);
 }
 
 /* --------- Media queries */
