@@ -179,23 +179,19 @@ JShint was used to validate the JavaScript.
 
 * [script.js](documentation/jshint-validation.png)
 
-### Solved Bugs
-
-### Known Bugs
-
 ### Testing User Stories
 
 | User Story | How Achieved? | Evidence |
 | :--- | :--- | :--- |
-| I want to be able to understand how to use the site without having to read instructions. | | |
-| I want to be able to switch the type of questions I answer. | | |
-| I want to be able to keep track of my score. | | |
+| I want to be able to understand how to use the site without having to read instructions. | The site is intuitive for users to use with its labelled buttons and layout | ![easy to use site](documentation/us-intuitive-site.png) |
+| I want to be able to switch the type of questions I answer. | Users can change the questions by selecting one of the math buttons | ![change questions](documentation/us-change-questions.png) |
+| I want to be able to keep track of my score. | At the bottom of the game screen is a score counter which allows users to keep track of the scores, both correct and incorrect | ![scores evidence](documentation/us-scores.png)|
 
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website.
 
-### Full Testing
+![Lighthouse Report](documentation/lighthouse.png)
 
 - - -
 
