@@ -177,6 +177,8 @@ The W3C validator was used to validate the HTML. It was also used to validate CS
 
 JShint was used to validate the JavaScript.
 
+* [script.js](documentation/jshint-validation.png)
+
 ### Solved Bugs
 
 ### Known Bugs
