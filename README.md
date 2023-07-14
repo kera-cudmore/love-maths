@@ -81,6 +81,8 @@ Wireframes were created for mobile, tablet and desktop using basalmiq.
 
 Love maths is comprised of one page which holds the game container.
 
+![Love Maths Site](documentation/lovemaths-site.png)
+
 ### Accessibility
 
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. This has been have achieved by:
