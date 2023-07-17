@@ -42,7 +42,8 @@ Visit the deployed site: [Love Maths](https://kera-cudmore.github.io/love-maths/
   * [Testing User Stories](#testing-user-stories)
   * [Lighthouse](#lighthouse)
   * [Full Testing](#full-testing)
-  
+* [Bugs](#bugs)
+  * [Solved Bugs](#solved-bugs)
 * [Credits](#credits)
   * [Code Used](#code-used)
   * [Media](#media)
@@ -199,6 +200,14 @@ I used Lighthouse within the Chrome Developer Tools to allow me to test the perf
 
 - - -
 
+## Bugs
+
+### Solved Bugs
+
+| No | Bug | How I solved the issue | Evidence |
+|:--- | :--- | :--- | :---: |
+| 1 | Game buttons weren't displaying responsive on smaller screens | I added some padding to the buttons to make them display better on smaller screens | ![Solved bug 1](documentation/solved-bug-1.png) |
+- - -
 ## Credits
 
 ### Code Used
