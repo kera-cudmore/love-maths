@@ -1,6 +1,6 @@
-# Love Maths
-
 ![Love Maths Banner](documentation/love-maths-banner.png)
+
+# Love Maths
 
 The love maths site was created as part of a walkthrough series of lessons for the JavaScript module in the Code Institutes Diploma in Full Stack Web Development.
 
@@ -48,6 +48,8 @@ Visit the deployed site: [Love Maths](https://kera-cudmore.github.io/love-maths/
   * [Media](#media)
 
 - - -
+
+![Love Maths](documentation/site-responsive.png)
 
 ## User Experience (UX)
 
