@@ -6,47 +6,13 @@ The love maths site was created as part of a walkthrough series of lessons for t
 
 It is a maths game that allows users to practice their core mathematics skills in addition, subtraction, division and multiplication.
 
-Visit the deployed site: [Love Maths](https://kera-cudmore.github.io/love-maths/)
+Visit the deployed site: [Love Maths](https://www.love-maths.keracudmore.dev/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-maths?color=red)
 ![GitHub contributors](https://img.shields.io/github/contributors/Kera-cudmore/love-maths?color=orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kera-cudmore/love-maths?color=yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/Kera-cudmore/love-maths?color=green)
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Flove-maths%2F)
-
-- - -
-
-## CONTENTS
-
-* [User Experience (UX)](#user-experience-ux)
-  * [User Stories](#user-stories)
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Wireframes](#wireframes)
-* [Features](#features)
-  * [Accessibility](#accessibility)
-  * [Future Implementations](#future-implementations)
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
-* [Testing](#testing)
-  * [W3C Validator](#w3c-validator)
-  * [Solved Bugs](#solved-bugs)
-  * [Known Bugs](#known-bugs)
-  * [Testing User Stories](#testing-user-stories)
-  * [Lighthouse](#lighthouse)
-  * [Full Testing](#full-testing)
-* [Bugs](#bugs)
-  * [Solved Bugs](#solved-bugs)
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Media](#media)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fwww.love-maths.keracudmore.dev%2F)
 
 - - -
 
